@@ -1,0 +1,11 @@
+# Data files
+data/*.csv
+
+# Model files
+models/*.pkl
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
